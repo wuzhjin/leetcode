@@ -64,7 +64,63 @@
 class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
+        //*****递归******
+        if(q==nullptr&&p==nullptr) return true;
+        if((p==nullptr&&q)||(p&&q==nullptr)||(p->val!=q->val)) return false;
+        return isSameTree(p->left,q->left)&&isSameTree(p->right,q->right);
+        
+        //*****先序遍历******
+//        stack<TreeNode*> st;
+//        st.push(p);
+//        st.push(q);
+//        while(!st.empty())
+//        {
+//            p=st.top();st.pop();
+//            q=st.top();st.pop();
+//            if(!p&&!q) continue;
+//            if((!p&&q)||(p&&!q)||(p->val!=q->val)) return false;
+//            st.push(q->right);st.push(p->right);
+//            st.push(q->left);st.push(p->left);
+//        }
+//        return true;
 
+        ///*****中序遍历******
+//        stack<TreeNode*> st;
+//        while(p||q||!st.empty())
+//        {
+//            while(p||q)
+//            {
+//                if((!p&&q)||(p&&!q)||(p->val!=q->val)) return false;
+//                st.push(p);
+//                st.push(q);
+//                p=p->left;
+//                q=q->left;
+//            }
+//            p=st.top();st.pop();
+//            q=st.top();st.pop();
+//            p=p->right;
+//            q=q->right;
+//        }
+//        return true;
+
+        ///*****后序遍历******
+        
+        ///*****层序遍历******
+//        queue<TreeNode*> que;
+//        que.push(p);
+//        que.push(q);
+//        while(!que.empty())
+//        {
+//            p=que.front();que.pop();
+//            q=que.front();que.pop();
+//            if(!q&&!p) continue;
+//            if((!q&&p)||(q&&!p)||(q->val!=p->val)) return false;
+//            que.push(p->left);
+//            que.push(q->left);
+//            que.push(p->right);
+//            que.push(q->right);
+//        }
+//        return true;
     }
 };
 // @lc code=end
