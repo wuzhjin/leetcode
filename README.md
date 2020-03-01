@@ -1,12 +1,13 @@
 vscode leetcode backup  
-----------------
- - [difficulty](#difficulty)
-  * [easy](##easy)
-  * [medium](##medium)
-
----------------
-## difficulty  
-### easy  
+- [Difficulty](#difficulty)
+  - [Easy](#easy)
+  - [Medium](#medium)
+- [Tag](#tag)
+  - [Array](#array)
+  
+-------------------------------
+## Difficulty  
+### Easy  
 [1.两数之和](1.两数之和.cpp)  
 [7.整数反转](7.整数反转.cpp)  
 [9.回文数](9.回文数.cpp)  
@@ -41,4 +42,8 @@ vscode leetcode backup
 [122.买卖股票的最佳时机-ii](122.买卖股票的最佳时机-ii.cpp)  
 [125.验证回文串](125.验证回文串.cpp)  
 [136.只出现一次的数字](136.只出现一次的数字.cpp)  
-### meidium  
+### Medium  
+
+--------------
+## Tag  
+### Array    
