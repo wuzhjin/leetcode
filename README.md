@@ -1,9 +1,9 @@
 vscode leetcode backup  
 ----------------
-\
-[TOC]  
-\
-----------------
+ - [difficulty](#difficulty)
+  * [easy](#easy)
+
+---------------
 ## difficulty  
 ### easy  
 [1.两数之和](1.两数之和.cpp)  
