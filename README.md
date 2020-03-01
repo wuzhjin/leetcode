@@ -1,7 +1,7 @@
 vscode leetcode backup  
 ----------------
  - [difficulty](#difficulty)
-  * [easy](#easy)
+  * [easy](##easy)
 
 ---------------
 ## difficulty  
