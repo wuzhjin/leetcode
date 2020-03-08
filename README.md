@@ -3,7 +3,8 @@ vscode leetcode backup
   - [Easy](#easy)
   - [Medium](#medium)
 - [Tag](#tag)
-  - [Array](#array)
+  - [array](#array)
+  - [bit-manipulation](#bit-manipulation)
   
 -------------------------------
 ## Difficulty  
@@ -52,10 +53,15 @@ vscode leetcode backup
 [172.阶乘后的零](172.阶乘后的零.cpp)  
 [189.旋转数组](189.旋转数组.cpp)  
 [190.颠倒二进制位](190.颠倒二进制位.cpp)  
-[191.位-1-的个数](191.位-1-的个数.cpp)  
+[191.位-1-的个数](191.位-1-的个数.cpp)    
 [198.打家劫舍](198.打家劫舍.cpp)  
+[202.快乐数](202.快乐数.cpp)  
+[203.移除链表元素](203.移除链表元素.cpp)  
 ### Medium  
 
 --------------
 ## Tag  
-### Array    
+### array  
+### bit-manipulation  
+[190.颠倒二进制位](190.颠倒二进制位.cpp)  
+[191.位-1-的个数](191.位-1-的个数.cpp)    
