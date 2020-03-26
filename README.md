@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [3.无重复字符的最长子串](#3%e6%97%a0%e9%87%8d%e5%a4%8d%e5%ad%97%e7%ac%a6%e7%9a%84%e6%9c%80%e9%95%bf%e5%ad%90%e4%b8%b2)
+- [5.最长回文子串](#5%e6%9c%80%e9%95%bf%e5%9b%9e%e6%96%87%e5%ad%90%e4%b8%b2)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -90,9 +90,11 @@ vscode leetcode backup
 [350.两个数组的交集-ii](350.两个数组的交集-ii.cpp)  
 [367.有效的完全平方数](367.有效的完全平方数.cpp)  
 [371.两整数之和](371.两整数之和.cpp)  
+[374.猜数字大小](374.猜数字大小.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
+[5.最长回文子串](5.最长回文子串.cpp)  
 --------------
 ## Tag  
 ### array  
