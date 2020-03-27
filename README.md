@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [5.最长回文子串](#5%e6%9c%80%e9%95%bf%e5%9b%9e%e6%96%87%e5%ad%90%e4%b8%b2)
+- [6.z-字形变换](#6z-%e5%ad%97%e5%bd%a2%e5%8f%98%e6%8d%a2)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -91,10 +91,12 @@ vscode leetcode backup
 [367.有效的完全平方数](367.有效的完全平方数.cpp)  
 [371.两整数之和](371.两整数之和.cpp)  
 [374.猜数字大小](374.猜数字大小.cpp)  
+[383.赎金信](383.赎金信.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
 [5.最长回文子串](5.最长回文子串.cpp)  
+[6.z-字形变换](6.z-字形变换.cpp)  
 --------------
 ## Tag  
 ### array  
