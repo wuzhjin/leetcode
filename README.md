@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [6.z-字形变换](#6z-%e5%ad%97%e5%bd%a2%e5%8f%98%e6%8d%a2)
+- [8.字符串转换整数-atoi](#8%e5%ad%97%e7%ac%a6%e4%b8%b2%e8%bd%ac%e6%8d%a2%e6%95%b4%e6%95%b0-atoi)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -92,11 +92,13 @@ vscode leetcode backup
 [371.两整数之和](371.两整数之和.cpp)  
 [374.猜数字大小](374.猜数字大小.cpp)  
 [383.赎金信](383.赎金信.cpp)  
+[387.字符串中的第一个唯一字符](387.字符串中的第一个唯一字符.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
 [5.最长回文子串](5.最长回文子串.cpp)  
 [6.z-字形变换](6.z-字形变换.cpp)  
+[8.字符串转换整数-atoi](8.字符串转换整数-atoi.cpp)  
 --------------
 ## Tag  
 ### array  
