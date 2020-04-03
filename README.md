@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [18.四数之和](#18%e5%9b%9b%e6%95%b0%e4%b9%8b%e5%92%8c)
+- [19.删除链表的倒数第n个节点](#19%e5%88%a0%e9%99%a4%e9%93%be%e8%a1%a8%e7%9a%84%e5%80%92%e6%95%b0%e7%ac%acn%e4%b8%aa%e8%8a%82%e7%82%b9)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -99,6 +99,7 @@ vscode leetcode backup
 [404.左叶子之和](404.左叶子之和.cpp)  
 [405.数字转换为十六进制数](405.数字转换为十六进制数.cpp)  
 [409.最长回文串](409.最长回文串.cpp)  
+[412.fizz-buzz](412.fizz-buzz.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
@@ -111,6 +112,7 @@ vscode leetcode backup
 [16.最接近的三数之和](16.最接近的三数之和.cpp)  
 [17.电话号码的字母组合](17.电话号码的字母组合.cpp)  
 [18.四数之和](18.四数之和.cpp)  
+[19.删除链表的倒数第n个节点](19.删除链表的倒数第n个节点.cpp)  
 --------------
 ## Tag  
 ### array  
