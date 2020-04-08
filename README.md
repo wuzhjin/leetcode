@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [29.两数相除](#29%e4%b8%a4%e6%95%b0%e7%9b%b8%e9%99%a4)
+- [31.下一个排列](#31%e4%b8%8b%e4%b8%80%e4%b8%aa%e6%8e%92%e5%88%97)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -103,6 +103,7 @@ vscode leetcode backup
 [414.第三大的数](414.第三大的数.cpp)  
 [415.字符串相加](415.字符串相加.cpp)  
 [429.n叉树的层序遍历](429.n叉树的层序遍历.cpp)  
+[434.字符串中的单词数](434.字符串中的单词数.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
@@ -119,6 +120,7 @@ vscode leetcode backup
 [22.括号生成](22.括号生成.cpp)  
 [24.两两交换链表中的节点](24.两两交换链表中的节点.cpp)  
 [29.两数相除](29.两数相除.cpp)  
+[31.下一个排列](31.下一个排列.cpp)  
 --------------
 ## Tag  
 ### array  
