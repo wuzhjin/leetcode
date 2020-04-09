@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [31.下一个排列](#31%e4%b8%8b%e4%b8%80%e4%b8%aa%e6%8e%92%e5%88%97)
+- [33.搜索旋转排序数组](#33%e6%90%9c%e7%b4%a2%e6%97%8b%e8%bd%ac%e6%8e%92%e5%ba%8f%e6%95%b0%e7%bb%84)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -104,6 +104,7 @@ vscode leetcode backup
 [415.字符串相加](415.字符串相加.cpp)  
 [429.n叉树的层序遍历](429.n叉树的层序遍历.cpp)  
 [434.字符串中的单词数](434.字符串中的单词数.cpp)  
+[437.路径总和-iii](437.路径总和-iii.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
@@ -121,6 +122,7 @@ vscode leetcode backup
 [24.两两交换链表中的节点](24.两两交换链表中的节点.cpp)  
 [29.两数相除](29.两数相除.cpp)  
 [31.下一个排列](31.下一个排列.cpp)  
+[33.搜索旋转排序数组](33.搜索旋转排序数组.cpp)  
 --------------
 ## Tag  
 ### array  
