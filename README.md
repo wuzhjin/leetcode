@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [33.搜索旋转排序数组](#33%e6%90%9c%e7%b4%a2%e6%97%8b%e8%bd%ac%e6%8e%92%e5%ba%8f%e6%95%b0%e7%bb%84)
+- [34.在排序数组中查找元素的第一个和最后一个位置](#34%e5%9c%a8%e6%8e%92%e5%ba%8f%e6%95%b0%e7%bb%84%e4%b8%ad%e6%9f%a5%e6%89%be%e5%85%83%e7%b4%a0%e7%9a%84%e7%ac%ac%e4%b8%80%e4%b8%aa%e5%92%8c%e6%9c%80%e5%90%8e%e4%b8%80%e4%b8%aa%e4%bd%8d%e7%bd%ae)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -105,6 +105,7 @@ vscode leetcode backup
 [429.n叉树的层序遍历](429.n叉树的层序遍历.cpp)  
 [434.字符串中的单词数](434.字符串中的单词数.cpp)  
 [437.路径总和-iii](437.路径总和-iii.cpp)  
+[441.排列硬币](441.排列硬币.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
@@ -123,6 +124,7 @@ vscode leetcode backup
 [29.两数相除](29.两数相除.cpp)  
 [31.下一个排列](31.下一个排列.cpp)  
 [33.搜索旋转排序数组](33.搜索旋转排序数组.cpp)  
+[34.在排序数组中查找元素的第一个和最后一个位置](34.在排序数组中查找元素的第一个和最后一个位置.cpp)  
 --------------
 ## Tag  
 ### array  
