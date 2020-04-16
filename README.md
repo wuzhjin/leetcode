@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [46.全排列](#46%e5%85%a8%e6%8e%92%e5%88%97)
+- [47.全排列-ii](#47%e5%85%a8%e6%8e%92%e5%88%97-ii)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -111,6 +111,7 @@ vscode leetcode backup
 [448.找到所有数组中消失的数字](448.找到所有数组中消失的数字.cpp)  
 [453.最小移动次数使数组元素相等](453.最小移动次数使数组元素相等.cpp)  
 [455.分发饼干](455.分发饼干.cpp)  
+[459.重复的子字符串](459.重复的子字符串.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
@@ -135,6 +136,7 @@ vscode leetcode backup
 [40.组合总和-ii](40.组合总和-ii.cpp)  
 [43.字符串相乘](43.字符串相乘.cpp)  
 [46.全排列](46.全排列.cpp)  
+[47.全排列-ii](47.全排列-ii.cpp)  
 --------------
 ## Tag  
 ### array  
