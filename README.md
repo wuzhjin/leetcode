@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [50.pow-x-n](#50pow-x-n)
+- [55.跳跃游戏](#55%e8%b7%b3%e8%b7%83%e6%b8%b8%e6%88%8f)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -115,6 +115,8 @@ vscode leetcode backup
 [461.汉明距离](461.汉明距离.cpp)  
 [463.岛屿的周长](463.岛屿的周长.cpp)  
 [475.供暖器](475.供暖器.cpp)  
+[476.数字的补数](476.数字的补数.cpp)  
+[482.密钥格式化](482.密钥格式化.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
@@ -143,6 +145,8 @@ vscode leetcode backup
 [48.旋转图像](48.旋转图像.cpp)  
 [49.字母异位词分组](49.字母异位词分组.cpp)  
 [50.pow-x-n](50.pow-x-n.cpp)  
+[54.螺旋矩阵](54.螺旋矩阵.cpp)  
+[55.跳跃游戏](55.跳跃游戏.cpp)  
 --------------
 ## Tag  
 ### array  
@@ -165,3 +169,4 @@ vscode leetcode backup
 [268.缺失数字](268.缺失数字.cpp)  
 [342.4-的幂](342.4-的幂.cpp)  
 [389.找不同](389.找不同.cpp)  
+[476.数字的补数](476.数字的补数.cpp)  
