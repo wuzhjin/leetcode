@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [59.螺旋矩阵-ii](#59%e8%9e%ba%e6%97%8b%e7%9f%a9%e9%98%b5-ii)
+- [60.第k个排列](#60%e7%ac%ack%e4%b8%aa%e6%8e%92%e5%88%97)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -119,6 +119,7 @@ vscode leetcode backup
 [482.密钥格式化](482.密钥格式化.cpp)  
 [485.最大连续-1-的个数](485.最大连续-1-的个数.cpp)  
 [492.构造矩形](492.构造矩形.cpp)  
+[496.下一个更大元素-i](496.下一个更大元素-i.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
@@ -151,6 +152,7 @@ vscode leetcode backup
 [55.跳跃游戏](55.跳跃游戏.cpp)  
 [56.合并区间](56.合并区间.cpp)  
 [59.螺旋矩阵-ii](59.螺旋矩阵-ii.cpp)  
+[60.第k个排列](60.第k个排列.cpp)  
 --------------
 ## Tag  
 ### array  
