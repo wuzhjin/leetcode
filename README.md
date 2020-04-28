@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [63.不同路径-ii](#63%e4%b8%8d%e5%90%8c%e8%b7%af%e5%be%84-ii)
+- [64.最小路径和](#64%e6%9c%80%e5%b0%8f%e8%b7%af%e5%be%84%e5%92%8c)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -123,6 +123,7 @@ vscode leetcode backup
 [500.键盘行](500.键盘行.cpp)  
 [501.二叉搜索树中的众数](501.二叉搜索树中的众数.cpp)  
 [504.七进制数](504.七进制数.cpp)  
+[506.相对名次](506.相对名次.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
@@ -159,6 +160,7 @@ vscode leetcode backup
 [61.旋转链表](61.旋转链表.cpp)  
 [62.不同路径](62.不同路径.cpp)  
 [63.不同路径-ii](63.不同路径-ii.cpp)  
+[64.最小路径和](64.最小路径和.cpp)  
 --------------
 ## Tag  
 ### array  
