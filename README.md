@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [71.简化路径](#71%e7%ae%80%e5%8c%96%e8%b7%af%e5%be%84)
+- [73.矩阵置零](#73%e7%9f%a9%e9%98%b5%e7%bd%ae%e9%9b%b6)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -125,6 +125,7 @@ vscode leetcode backup
 [504.七进制数](504.七进制数.cpp)  
 [506.相对名次](506.相对名次.cpp)  
 [507.完美数](507.完美数.cpp)  
+[509.斐波那契数](509.斐波那契数.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
@@ -163,6 +164,7 @@ vscode leetcode backup
 [63.不同路径-ii](63.不同路径-ii.cpp)  
 [64.最小路径和](64.最小路径和.cpp)  
 [71.简化路径](71.简化路径.cpp)  
+[73.矩阵置零](73.矩阵置零.cpp)  
 --------------
 ## Tag  
 ### array  
