@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [74.搜索二维矩阵](#74%e6%90%9c%e7%b4%a2%e4%ba%8c%e7%bb%b4%e7%9f%a9%e9%98%b5)
+- [75.颜色分类](#75%e9%a2%9c%e8%89%b2%e5%88%86%e7%b1%bb)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -127,6 +127,7 @@ vscode leetcode backup
 [507.完美数](507.完美数.cpp)  
 [509.斐波那契数](509.斐波那契数.cpp)  
 [520.检测大写字母](520.检测大写字母.cpp)  
+[521.最长特殊序列-ⅰ](521.最长特殊序列-ⅰ.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
@@ -167,6 +168,7 @@ vscode leetcode backup
 [71.简化路径](71.简化路径.cpp)  
 [73.矩阵置零](73.矩阵置零.cpp)  
 [74.搜索二维矩阵](74.搜索二维矩阵.cpp)  
+[75.颜色分类](75.颜色分类.cpp)  
 --------------
 ## Tag  
 ### array  
