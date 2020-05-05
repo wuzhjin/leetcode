@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [78.子集](#78%e5%ad%90%e9%9b%86)
+- [79.单词搜索](#79%e5%8d%95%e8%af%8d%e6%90%9c%e7%b4%a2)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -130,6 +130,7 @@ vscode leetcode backup
 [521.最长特殊序列-ⅰ](521.最长特殊序列-ⅰ.cpp)  
 [530.二叉搜索树的最小绝对差](530.二叉搜索树的最小绝对差.cpp)  
 [532.数组中的k-diff数对](532.数组中的k-diff数对.cpp)  
+[538.把二叉搜索树转换为累加树](538.把二叉搜索树转换为累加树.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
@@ -173,6 +174,7 @@ vscode leetcode backup
 [75.颜色分类](75.颜色分类.cpp)  
 [77.组合](77.组合.cpp)  
 [78.子集](78.子集.cpp)  
+[79.单词搜索](79.单词搜索.cpp)  
 --------------
 ## Tag  
 ### array  
