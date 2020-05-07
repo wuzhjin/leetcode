@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [80.删除排序数组中的重复项-ii](#80%e5%88%a0%e9%99%a4%e6%8e%92%e5%ba%8f%e6%95%b0%e7%bb%84%e4%b8%ad%e7%9a%84%e9%87%8d%e5%a4%8d%e9%a1%b9-ii)
+- [81.搜索旋转排序数组-ii](#81%e6%90%9c%e7%b4%a2%e6%97%8b%e8%bd%ac%e6%8e%92%e5%ba%8f%e6%95%b0%e7%bb%84-ii)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -132,6 +132,7 @@ vscode leetcode backup
 [532.数组中的k-diff数对](532.数组中的k-diff数对.cpp)  
 [538.把二叉搜索树转换为累加树](538.把二叉搜索树转换为累加树.cpp)  
 [541.反转字符串-ii](541.反转字符串-ii.cpp)  
+[543.二叉树的直径](543.二叉树的直径.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
@@ -177,6 +178,7 @@ vscode leetcode backup
 [78.子集](78.子集.cpp)  
 [79.单词搜索](79.单词搜索.cpp)  
 [80.删除排序数组中的重复项-ii](80.删除排序数组中的重复项-ii.cpp)  
+[81.搜索旋转排序数组-ii](81.搜索旋转排序数组-ii.cpp)  
 --------------
 ## Tag  
 ### array  
