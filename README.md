@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [81.搜索旋转排序数组-ii](#81%e6%90%9c%e7%b4%a2%e6%97%8b%e8%bd%ac%e6%8e%92%e5%ba%8f%e6%95%b0%e7%bb%84-ii)
+- [82.删除排序链表中的重复元素-ii](#82%e5%88%a0%e9%99%a4%e6%8e%92%e5%ba%8f%e9%93%be%e8%a1%a8%e4%b8%ad%e7%9a%84%e9%87%8d%e5%a4%8d%e5%85%83%e7%b4%a0-ii)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -133,6 +133,7 @@ vscode leetcode backup
 [538.把二叉搜索树转换为累加树](538.把二叉搜索树转换为累加树.cpp)  
 [541.反转字符串-ii](541.反转字符串-ii.cpp)  
 [543.二叉树的直径](543.二叉树的直径.cpp)  
+[551.学生出勤记录-i](551.学生出勤记录-i.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
@@ -179,6 +180,7 @@ vscode leetcode backup
 [79.单词搜索](79.单词搜索.cpp)  
 [80.删除排序数组中的重复项-ii](80.删除排序数组中的重复项-ii.cpp)  
 [81.搜索旋转排序数组-ii](81.搜索旋转排序数组-ii.cpp)  
+[82.删除排序链表中的重复元素-ii](82.删除排序链表中的重复元素-ii.cpp)  
 --------------
 ## Tag  
 ### array  
