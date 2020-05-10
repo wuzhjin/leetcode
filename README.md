@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [86.分隔链表](#86%e5%88%86%e9%9a%94%e9%93%be%e8%a1%a8)
+- [89.格雷编码](#89%e6%a0%bc%e9%9b%b7%e7%bc%96%e7%a0%81)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -135,6 +135,7 @@ vscode leetcode backup
 [543.二叉树的直径](543.二叉树的直径.cpp)  
 [551.学生出勤记录-i](551.学生出勤记录-i.cpp)  
 [557.反转字符串中的单词-iii](557.反转字符串中的单词-iii.cpp)  
+[559.n叉树的最大深度](559.n叉树的最大深度.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
@@ -183,6 +184,7 @@ vscode leetcode backup
 [81.搜索旋转排序数组-ii](81.搜索旋转排序数组-ii.cpp)  
 [82.删除排序链表中的重复元素-ii](82.删除排序链表中的重复元素-ii.cpp)  
 [86.分隔链表](86.分隔链表.cpp)  
+[89.格雷编码](89.格雷编码.cpp)  
 --------------
 ## Tag  
 ### array  
