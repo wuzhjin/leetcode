@@ -2,7 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
-- [102.二叉树的层序遍历](#102%e4%ba%8c%e5%8f%89%e6%a0%91%e7%9a%84%e5%b1%82%e5%ba%8f%e9%81%8d%e5%8e%86)
+- [102.二叉树的层序遍历](#102二叉树的层序遍历)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -148,6 +148,7 @@ vscode leetcode backup
 [598.范围求和-ii](598.范围求和-ii.cpp)  
 [599.两个列表的最小索引总和](599.两个列表的最小索引总和.cpp)  
 [605.种花问题](605.种花问题.cpp)  
+[606.根据二叉树创建字符串](606.根据二叉树创建字符串.cpp)  
 ### Medium  
 [2.两数相加](2.两数相加.cpp)  
 [3.无重复字符的最长子串](3.无重复字符的最长子串.cpp)  
