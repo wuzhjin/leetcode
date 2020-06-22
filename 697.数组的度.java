@@ -53,29 +53,20 @@ import jdk.internal.net.http.common.Pair;
  */
 
 // @lc code=start
+class Pair<U, V> {
+    public U first;
+    public V second;
+
+    public Pair(U first, V second) {
+        this.first = first;
+        this.second = second;
+    }
+}
+
 class Solution {
     public int findShortestSubArray(final int[] nums) {
         final int n = nums.length;
         int res = Integer.MAX_VALUE, degree = 0;
-        // Map<Integer, Integer> m = new HashMap<>();
-        // Map<Integer, Pair<Integer, Integer>> pos = new HashMap<>();
-        // for (int i = 0; i < n; ++i) {
-        //     if (!m.containsKey(nums[i])) {
-        //         m.put(nums[i], 1);
-        //         Pair<Integer, Integer> p = Pair.of(i, i);
-        //         pos.put(nums[i], p);
-        //     } else {
-        //         pos.get(nums[i]).setValue(i);
-        //     }
-        //     degree = Math.max(degree, m.get(nums[i]));
-        // }
-        // for (auto a : m) {
-        //     if (degree == a.second) {
-        //         res = Math.min(res, pos[a.first].getValue - pos[a.first].getKey + 1);
-        //     }
-        // }
-        // return res;
-
         final Map<Integer, Integer> m = new HashMap<>(), startIndex = new HashMap<>();
         for (int i = 0; i < n; ++i) {
             m.put(nums[i], m.getOrDefault(nums[i], 0) + 1);
