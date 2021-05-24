@@ -2,6 +2,7 @@ vscode leetcode backup
 - [Difficulty](#difficulty)
   - [Easy](#easy)
   - [Medium](#medium)
+  - [HARD](#hard)
 - [Tag](#tag)
   - [array](#array)
   - [tree](#tree)
@@ -270,6 +271,8 @@ vscode leetcode backup
 [96.不同的二叉搜索树](96.不同的二叉搜索树.cpp)  
 [98.验证二叉搜索树](98.验证二叉搜索树.cpp)  
 [102.二叉树的层序遍历](102.二叉树的层序遍历.cpp)  
+
+### HARD  
 
 --------------
 
