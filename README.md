@@ -11,7 +11,7 @@ vscode leetcode backup
 -------------------------------
 ## Difficulty  
 
-### Easy 
+### Easy  
 
 [1.两数之和](1.两数之和.cpp)  
 [7.整数反转](7.整数反转.cpp)  
