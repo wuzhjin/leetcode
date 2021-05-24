@@ -53,7 +53,7 @@ public:
         for (int i = 0; i < nums.size(); ++i)
         {
             int t = target - nums[i];
-            if (m.find(t)!=m.end())
+            if (m.find(t) != m.end())
             {
                 return {i, m[t]};
             }
