@@ -78,7 +78,7 @@
 class Solution {
  public:
   double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-    // case 1 : 使用获得Kth子函数（逐渐缩小搜查范围，每次淘汰k / 2 个值）
+    // case 1 : 使用获得Kth子函数（逐渐缩小搜查范围，每次淘汰 k / 2 个值）
     int m = nums1.size(), n = nums2.size(), left = (m + n + 1) / 2,
         right = (m + n + 2) / 2;
     return (findKth(nums1, 0, nums2, 0, left) +
